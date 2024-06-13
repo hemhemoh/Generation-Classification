@@ -30,5 +30,5 @@ Here's what I have done so far:
  * Selenium.
  * Computer vision.
 
-You can always reach out to me via email omotowo234@gmail.com or via twitter @hemhemoh for further clarifications
+You can always reach out to me via email mardiyyahodu@gmail.com or via twitter @hemhemoh for further clarifications
 
